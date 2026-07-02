@@ -2,6 +2,8 @@
 
 ### Data Analyst | Monitoring & Evaluation (M&E) | Dashboard & Reporting Specialist
 
+![Banner](assets/banner.png)
+
 ![Excel](https://img.shields.io/badge/Excel-Advanced-green)
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-blue)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
