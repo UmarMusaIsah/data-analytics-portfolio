@@ -4,146 +4,119 @@
 
 ![Banner](assets/banner.png)
 
-![Excel](https://img.shields.io/badge/Excel-Advanced-green)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-blue)
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
-![M&E](https://img.shields.io/badge/M&E-Professional-orange)
+![Portfolio](https://img.shields.io/badge/Portfolio-Data%20Analytics-blue)
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Tool-Excel-217346?logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/Tool-SQL-336791)
+![Sector](https://img.shields.io/badge/Focus-NGO%20%7C%20UN-success)
 
-Welcome to my professional data analytics portfolio.
+---
 
-I specialize in transforming raw data into actionable insights that improve decision-making across humanitarian, development, and business environments.
+## About Me
 
-My work focuses on:
+I am **Umar Musa Isah**, a Data Analyst specializing in humanitarian analytics, monitoring & evaluation (M&E), dashboard development, and evidence-based reporting.
 
-- Data Analysis  
-- Dashboard Development  
-- KPI Tracking  
+I build analytical solutions that transform raw operational data into actionable insights for NGOs, UN agencies, and decision-makers.
+
+---
+
+## Core Skills
+
+- Microsoft Excel  
+- SQL  
+- Power BI  
+- KoboToolbox  
+- CommCare  
+- Monitoring & Evaluation (M&E)  
+- Data Cleaning & Transformation  
+- Dashboard Design  
+- Reporting & Presentation  
+
+---
+
+## Featured Projects
+
+---
+
+### 1. UNICEF Education Monitoring Dashboard
+
+Humanitarian education analytics dashboard tracking:
+
+- Enrollment  
+- Attendance  
+- Gender parity  
+- Regional education performance  
+
+**Tools Used:** Excel, Power BI  
+**Repository:**  
+:contentReference[oaicite:0]{index=0}
+
+---
+
+### 2. WFP Food Security Dashboard
+
+Food security intelligence dashboard for monitoring:
+
+- Food risk levels  
+- Market price inflation  
+- Vulnerability patterns  
+- Operational insights  
+
+**Tools Used:** Excel, Power BI  
+**Repository:**  
+:contentReference[oaicite:1]{index=1}
+
+---
+
+### 3. UNDP M&E Indicator Tracker
+
+Strategic monitoring dashboard focused on:
+
+- Programme KPIs  
+- Budget utilization  
+- Risk management  
+- Performance tracking  
+
+**Tools Used:** Excel, Power BI  
+**Repository:**  
+:contentReference[oaicite:2]{index=2}
+
+---
+
+## Professional Focus
+
+I am particularly interested in analytics roles involving:
+
 - Monitoring & Evaluation  
-- Reporting & Decision Support  
-- Survey Data Systems  
+- Humanitarian Data Analysis  
+- Program Performance Tracking  
+- Reporting & Visualization  
+- Decision Support Systems  
+
+Target roles include:
+
+- Data Analyst  
+- M&E Officer  
+- Reporting Officer  
+- Program Analyst  
+- Information Management Officer  
 
 ---
 
-# Professional Summary
+## Certifications
 
-I am a Data Analyst with practical experience in analytics, business intelligence, monitoring & evaluation, and data-driven reporting.
-
-I build decision-support systems that help organizations:
-
-- monitor performance  
-- track indicators  
-- identify trends  
-- improve operational efficiency  
-- support strategic planning  
-
-I am particularly interested in roles within:
-
-- United Nations agencies  
-- NGOs / INGOs  
-- Development sector  
-- Remote analytics teams  
+- Certificate in Data Analytics (Excel, SQL, Power BI)  
+- CommCare Certified — Application Building  
+- Monitoring & Evaluation Professional  
 
 ---
 
-# Core Skills
+## Contact
 
-## Analytics
-- Excel
-- SQL
-- Power BI
-- Data Cleaning
-- Data Modeling
-
-## Reporting
-- KPI Reporting
-- Executive Reporting
-- PowerPoint Storytelling
-- Insight Communication
-
-## Monitoring & Evaluation
-- Indicator Tracking
-- Program Monitoring
-- Data Quality Checks
-- Results Framework Analysis
-
-## Survey Tools
-- KoboToolbox
-- CommCare
-- Google Forms
+📧 Email: umarmusapress@gmail.com  
+💼 LinkedIn:[ Add your LinkedIn URL here](https://www.linkedin.com/in/umar-musa-isah-997821408)  
+🐙 GitHub: :GitHub: https://github.com/UmarMusaIsah
 
 ---
 
-# Featured Portfolio Projects
-
-## 1. UNICEF Education Monitoring Dashboard
-Tracks school enrollment, attendance, gender parity, and intervention effectiveness.
-
-**Key Deliverables**
-- Dashboard
-- PDF Report
-- Presentation
-- Case Study
-
----
-
-## 2. WFP Food Security Dashboard
-Analyzes household food security, vulnerability, and nutrition-related indicators.
-
-**Key Deliverables**
-- Dashboard
-- Trend Analysis
-- Reporting Pack
-- Executive Presentation
-
----
-
-## 3. UNDP M&E Indicator Tracker
-Monitors development program KPIs and implementation progress.
-
-**Key Deliverables**
-- KPI Dashboard
-- Indicator Tracker
-- M&E Reporting
-- Strategic Insights
-
----
-
-**Key Deliverables**
-- Recruitment Dashboard
-- Hiring Funnel Analysis
-- KPI Monitoring
-- Performance Reporting
-
----
-
-# What I Bring
-
-✔ Strong analytical thinking  
-✔ Clean data workflows  
-✔ Professional dashboards  
-✔ KPI monitoring expertise  
-✔ Stakeholder-ready reporting  
-✔ Decision-support analytics  
-
----
-
-# Career Goal
-
-My goal is to contribute to organizations using data to solve real-world problems in:
-
-- Education  
-- Food Security  
-- Public Health  
-- Humanitarian Response  
-- Development Programs  
-
----
-
-# Contact
-
-Email: umarmusapress@gmail.com  
-GitHub: https://github.com/UmarMusaIsah  
-
----
-
-> Turning data into decisions.# data-analytics-portfolio
+> Turning data into actionable insights for smarter decisions.
