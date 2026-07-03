@@ -114,7 +114,7 @@ Target roles include:
 ## Contact
 
 📧 Email: umarmusapress@gmail.com  
-💼 LinkedIn:https://www.linkedin.com/in/umar-musa-isah-997821408
+💼 LinkedIn:https://www.linkedin.com/in/umar-musa-isah-997821408        
 🐙 GitHub: :GitHub: https://github.com/UmarMusaIsah
 
 ---
