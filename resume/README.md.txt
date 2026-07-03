@@ -1,5 +1,5 @@
 # UMAR MUSA ISAH
-**Data Analyst | Monitoring & Evaluation (M&E) Professional | Dashboard & Reporting Specialist**
+### Data Analyst | Monitoring & Evaluation (M&E) Professional | Dashboard & Reporting Specialist
 
 📍 Kano, Nigeria  
 📞 +234 803 440 5263  
@@ -11,40 +11,40 @@
 
 ## PROFESSIONAL SUMMARY
 
-Results-driven Data Analyst and Monitoring & Evaluation (M&E) professional with strong expertise in data cleaning, dashboard development, reporting, and evidence-based decision support. Skilled in transforming raw datasets into actionable insights using Excel, SQL, Power BI, KoboToolbox, and CommCare.
+Results-driven Data Analyst and Monitoring & Evaluation (M&E) professional with expertise in data analysis, dashboard development, survey analytics, data cleaning, and evidence-based reporting. Skilled in transforming raw operational and survey data into actionable insights using Microsoft Excel, SQL, Power BI, KoboToolbox, CommCare, Google Sheets, and Power Query.
 
-Experienced in building professional analytics solutions for humanitarian and business use cases, including education monitoring, food security analytics, recruitment analysis, and programme performance tracking. Passionate about using data to improve operational efficiency, program delivery, and strategic decision-making within NGOs, INGOs, UN agencies, and remote organizations.
+Experienced in developing analytical solutions across humanitarian, development, and business contexts, including education monitoring, food security analysis, programme performance tracking, recruitment analytics, and impact assessment. Passionate about leveraging data to improve accountability, operational efficiency, program delivery, and strategic decision-making for NGOs, INGOs, UN agencies, and remote organizations.
 
 ---
 
 ## CORE COMPETENCIES
 
 - Data Analysis & Visualization  
-- Dashboard Development  
 - Monitoring & Evaluation (M&E)  
+- Dashboard Development  
 - Data Cleaning & Transformation  
 - KPI Tracking & Reporting  
 - Survey Data Collection & Analysis  
 - Program Performance Monitoring  
 - Business Intelligence Reporting  
-- Decision Support Analytics  
-- Presentation & Storytelling with Data  
+- Evidence-Based Decision Support  
+- Report Writing & Presentation  
 
 ---
 
 ## TECHNICAL SKILLS
 
-### Data Analytics Tools
+### Data Analytics & BI Tools
 - Microsoft Excel (Advanced)  
 - SQL  
 - Power BI  
 - Google Sheets (Advanced)  
 - Power Query  
 
-### Survey & Field Tools
+### Survey & Data Collection Tools
 - KoboToolbox  
 - CommCare  
-- ODK  
+- ODK / KoboCollect  
 - Google Forms  
 
 ### Analytics & Statistical Tools
@@ -52,14 +52,15 @@ Experienced in building professional analytics solutions for humanitarian and bu
 - SPSS (Beginner)  
 - GIS  
 
-### Reporting & Productivity
+### Reporting & Productivity Tools
 - Microsoft PowerPoint  
 - Microsoft Word  
-- Report Writing  
 - Canva (Professional)  
+- Report Writing  
 
 ### Digital & AI Tools
 - Generative AI Tools  
+- Responsible AI Practices  
 - AI-Assisted Research  
 - Prompt Engineering  
 - Workflow Automation  
@@ -72,53 +73,67 @@ Experienced in building professional analytics solutions for humanitarian and bu
 **Self-Employed | Remote**  
 **2024 – Present**
 
-- Delivered data analysis and dashboard solutions for portfolio and client-based projects  
-- Cleaned and transformed raw datasets for business intelligence reporting  
+- Delivered end-to-end data analysis and dashboard solutions for portfolio and remote client projects  
+- Cleaned, transformed, and validated raw datasets for business intelligence reporting  
 - Built interactive dashboards using Power BI and Excel  
-- Generated reports and actionable recommendations for decision-making  
-- Designed data-driven presentations for stakeholders  
+- Generated actionable insights and strategic recommendations for decision-making  
+- Designed analytical presentations and executive reports for stakeholders  
 
 ---
 
 ### Data Analytics Intern
-**Hammad Technologies and Consultancy Limited | Zamfara State, Nigeria (Provisional)**  
+**Hammad Technologies and Consultancy Limited | Nigeria**  
 **Apr 2026 – Present**
 
-Worked on field survey and analytics projects involving digital data collection and reporting.
+Supporting field data collection, analytics, and reporting projects under a structured industry-focused Data Analytics Bootcamp.
 
-Key responsibilities included:
+Key responsibilities:
 
-- Conducting field survey data collection using ODK, CommCare, and Google Forms  
-- Collecting and managing 100+ survey responses across multiple platforms  
-- Organizing datasets in Excel using structured multi-sheet reporting  
-- Analyzing survey data to identify trends and insights  
-- Preparing PowerPoint presentations and analytical reports  
-- Supporting survey monitoring, data quality checks, and reporting workflows  
+- Collected digital survey data using ODK, KoboCollect, CommCare, and Google Forms  
+- Performed data cleaning and preprocessing using Excel and Power Query  
+- Organized multi-source datasets for structured analysis and reporting  
+- Developed dashboards and visual reports for insight generation  
+- Conducted data quality validation and consistency checks  
+- Produced technical reports and presentation-ready findings for stakeholders  
 
-**Capstone Project (In Progress):**
-**Use of Herbal Remedies Survey Analysis**
+#### Capstone Project — TVET Programme Impact Assessment (In Progress)
+
+Conducting an independent assessment of the Nigerian TVET programme to generate evidence-based insights for policy and implementation improvement.
 
 Project objectives:
 
-- Identify commonly used herbal remedies  
-- Determine reasons for herbal medicine usage  
-- Assess perceived effectiveness of traditional remedies  
+- Assess beneficiary profile and accessibility  
+- Evaluate training quality and resource availability  
+- Measure skills acquisition and employability  
+- Examine employment and entrepreneurship outcomes  
+- Identify implementation challenges  
+- Generate actionable recommendations  
 
-Data collection requirements:
+Project deliverables:
 
-- 20 ODK responses  
-- 20 CommCare responses  
-- 60 Google Form responses  
+✔ Clean processed dataset  
+✔ Excel dashboard  
+✔ Power BI dashboard  
+✔ Technical report  
+✔ Final presentation  
 
-Total: **100 survey responses**
+---
+
+### Survey Data Analyst (Bootcamp Projects)
+**Project-Based**
+
+- Conducted survey design, data collection, cleaning, and analysis  
+- Worked with multi-source datasets from field and digital platforms  
+- Produced analytical insights to support evidence-based recommendations  
+- Supported reporting workflows and presentation delivery  
 
 ---
 
 ### Consultant — School Computer Lab Support
 **Contract / Independent**
 
-- Provided computer system setup and maintenance support  
-- Assisted with software installation and troubleshooting  
+- Provided computer lab setup and maintenance support  
+- Assisted with software installation, troubleshooting, and technical support  
 - Supported digital learning infrastructure and usability  
 
 ---
@@ -126,9 +141,9 @@ Total: **100 survey responses**
 ### Internet Café Systems Management
 **Independent Technical Support**
 
-- Managed daily system operations and customer support  
-- Maintained software and hardware functionality  
-- Resolved system-related technical issues  
+- Managed day-to-day system operations and user support  
+- Maintained hardware and software performance  
+- Resolved technical and operational issues efficiently  
 
 ---
 
@@ -137,21 +152,21 @@ Total: **100 survey responses**
 
 - Trained individuals on digital literacy and computer usage  
 - Promoted awareness of productivity and online tools  
-- Supported beginner learners in technology adoption  
+- Supported beginner learners in digital technology adoption  
 
 ---
 
 ## FEATURED PORTFOLIO PROJECTS
 
 ### UNICEF Education Monitoring Dashboard
-Built a Power BI dashboard for tracking:
+Built a Power BI dashboard for monitoring:
 
 - Student enrollment  
 - Attendance rates  
 - Gender parity  
 - Regional education performance  
 
-Tools: **Excel, Power BI**
+**Tools:** Excel, Power BI  
 
 ---
 
@@ -159,35 +174,35 @@ Tools: **Excel, Power BI**
 Developed a food security analytics dashboard for monitoring:
 
 - Food risk levels  
-- Market price changes  
+- Market price fluctuations  
 - Vulnerability patterns  
 - Operational insights  
 
-Tools: **Excel, Power BI**
+**Tools:** Excel, Power BI  
 
 ---
 
 ### UNDP M&E Indicator Tracker
-Designed an M&E performance dashboard for tracking:
+Designed a strategic monitoring dashboard for tracking:
 
 - Programme KPIs  
 - Budget utilization  
 - Risk indicators  
-- Strategic reporting metrics  
+- Performance reporting  
 
-Tools: **Excel, Power BI**
+**Tools:** Excel, Power BI  
 
 ---
 
 ### HR Recruitment Dashboard
-Built a recruitment analytics dashboard for workforce insights including:
+Built a recruitment analytics dashboard covering:
 
 - Hiring funnel performance  
 - Recruitment efficiency  
 - Candidate pipeline analysis  
-- Hiring metrics reporting  
+- Workforce metrics reporting  
 
-Tools: **Excel, Power BI**
+**Tools:** Excel, Power BI  
 
 ---
 
@@ -204,18 +219,22 @@ Tools: **Excel, Power BI**
 - Certificate in Data Analytics (Excel, SQL, Power BI)  
 - Monitoring & Evaluation Professional  
 - CommCare Certified — Application Building (Dimagi, Dec 2025)  
+- Managing Data with Microsoft 365 Certificate  
 - Report Writing Certificate  
-- Soft Skills Training (FGN-ALAT)  
+- Project Management Certificate  
+- Food Security and Livelihood Certificate  
+- GBV in Humanitarian Action Certificate  
+- Sanitarian Nutrition Operations Certificate  
 - Generative AI Certificate  
 - Responsible AI Certificate  
-- Managing Data with Microsoft 365 Certificate  
+- Soft Skills Training (FGN-ALAT)  
 
 ---
 
 ## ADDITIONAL STRENGTHS
 
 - Strong analytical thinking  
-- Problem solving  
+- Problem-solving  
 - Attention to detail  
 - Communication & presentation  
 - Stakeholder reporting  
